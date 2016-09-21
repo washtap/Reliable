@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SteampunkCalc", "SteampunkCalc\SteampunkCalc.vcxproj", "{773AA3D1-12D9-491D-A0F6-2553307487D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "UnitTest1\UnitTest1.vcxproj", "{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Debug|x64.ActiveCfg = Debug|x64
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Debug|x64.Build.0 = Debug|x64
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Debug|x86.Build.0 = Debug|Win32
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Release|x64.ActiveCfg = Release|x64
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Release|x64.Build.0 = Release|x64
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Release|x86.ActiveCfg = Release|Win32
+		{773AA3D1-12D9-491D-A0F6-2553307487D1}.Release|x86.Build.0 = Release|Win32
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Debug|x64.ActiveCfg = Debug|x64
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Debug|x64.Build.0 = Debug|x64
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Debug|x86.Build.0 = Debug|Win32
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Release|x64.ActiveCfg = Release|x64
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Release|x64.Build.0 = Release|x64
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Release|x86.ActiveCfg = Release|Win32
+		{DDAD48FA-37ED-4451-B182-B93D8BEBA08E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
